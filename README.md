@@ -38,7 +38,7 @@ Limpieza y validación de datos → cálculo de KPIs de rentabilidad → constru
 
 ![KPIs de rentabilidad](grafica_kpis_negocio.png)
 
-![Dashboard en Tableau](tableau_deliveries.png)
+![Dashboard en Tableau](Tableau_deliveries.png)
 
 🔗 [Ver dashboard interactivo en Tableau Public](https://public.tableau.com/app/profile/hernando.zamora/viz/Entrega2_17873387898950/Dashboard1?publish=yes)
 
